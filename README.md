@@ -8,4 +8,4 @@ It is developed as a part of udacity nano degree
 * Also you have to collect as many gems as possible.
 * The blue gem carries 50 points, the green 100 points and the orange 150 points.
 * Inorder to move the player, you can use the 'up','down','left'and 'right' arrow keys on your keyboard.
-*This game doesn't support on mobile browsers.
+* This game doesn't support on mobile browsers.
